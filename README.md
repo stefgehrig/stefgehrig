@@ -21,7 +21,7 @@
 |---|---|
 | [trustsurveys](https://github.com/stefgehrig/trustsurveys) | Collection of cross-national survey results on generalized trust |
 | [prop_interact](https://github.com/stefgehrig/prop_interact) | R function for testing interaction effects with proportional data |
-| [perm_test_ci](https://github.com/stefgehrig/trustsurveys) | R function for permutation testing of group differences and confidence intervals |
+| [perm_test_ci](https://github.com/stefgehrig/perm_test_ci) | R function for permutation testing of group differences and confidence intervals |
 
 ---
 
