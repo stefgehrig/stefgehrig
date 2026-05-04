@@ -4,7 +4,7 @@
 
 | Repository | Publication DOI |
 |---|---|
-| [globalgender](https://github.com/stefgehrig/globalgender) | |
+| [globalgender](https://github.com/stefgehrig/globalgender) | | [10.1093/pnasnexus/pgag133](https://doi.org/10.1093/pnasnexus/pgag133)
 | [qualityprogram](https://github.com/stefgehrig/qualityprogram) | [10.1186/s12913-025-12939-8](https://doi.org/10.1186/s12913-025-12939-8) |
 | [evaluatordilemma](https://github.com/stefgehrig/evaluatordilemma) | [10.1111/csp2.70119](https://doi.org/10.1111/csp2.70119) |
 | [implicitgender](https://github.com/stefgehrig/implicitgender) | [10.1287/mnsc.2022.01229](https://doi.org/10.1287/mnsc.2022.01229)|
