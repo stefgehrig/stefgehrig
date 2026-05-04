@@ -25,7 +25,7 @@
 
 ---
 
-## Explorations
+## Analyses
 
 | Repository | Description |
 |---|---|
